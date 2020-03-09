@@ -6,5 +6,5 @@ var kittens = [
 
 // Add your functions and code here
 fucntion destructivelyAppendKitten(name) {
-  kittens.push("kitten");
+  name = kittens.push("kitten");
 }
