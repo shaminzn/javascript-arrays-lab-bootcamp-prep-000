@@ -14,25 +14,25 @@ function destructivelyPrependKitten(name) {
 }
 
 function destivelyRemoveLastKitten(name) {
-  
+
 }
 
 function destivelyRemoveFirstKitten(name) {
-  
+
 }
 
 function appendKitten(name) {
-  
+
 }
 
 function prependKitten(name) {
-  
+
 }
 
 function removeLastKitten(name) {
-  
+
 }
 
 function removeFirstKitten(name) {
-  
+
 }
