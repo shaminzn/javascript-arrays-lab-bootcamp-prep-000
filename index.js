@@ -14,7 +14,7 @@ function destructivelyPrependKitten(name) {
 }
 
 function destivelyRemoveLastKitten(name) {
-
+  
 }
 
 function destivelyRemoveFirstKitten(name) {
