@@ -12,3 +12,27 @@ function destructivelyAppendKitten(name) {
 function destructivelyPrependKitten(name) {
   return kittens.unshift(name);
 }
+
+function destivelyRemoveLastKitten(name) {
+  
+}
+
+function destivelyRemoveFirstKitten(name) {
+  
+}
+
+function appendKitten(name) {
+  
+}
+
+function prependKitten(name) {
+  
+}
+
+function removeLastKitten(name) {
+  
+}
+
+function removeFirstKitten(name) {
+  
+}
